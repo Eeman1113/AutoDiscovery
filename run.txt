@@ -1,0 +1,13 @@
+# Run setup
+python setup.py
+
+# Execute a research query
+python main.py --query "Your research question here"
+
+# Interactive mode
+python main.py --interactive
+
+# Run examples
+python example.py creative
+python example.py analytical
+python example.py technical
