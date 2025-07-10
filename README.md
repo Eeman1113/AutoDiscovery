@@ -1,4 +1,4 @@
-# Autodisc - Multi-Agent Autonomous Research and Discovery System
+# Autodiscovery - Multi-Agent Autonomous Research and Discovery System
 
 A sophisticated autonomous research platform that transforms user queries into comprehensive, structured documentation through coordinated agent collaboration with minimal human intervention.
 
